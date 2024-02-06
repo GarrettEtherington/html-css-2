@@ -1,0 +1,86 @@
+
+#top-section {
+    background-color: rgb(255, 255, 255);
+    border: 5px solid black;
+    height: 25vh;
+    width: 90%;
+    display: flex;
+    position: relative;
+    left: 90px;
+}
+
+#top-purple {
+    background-color: blueviolet;
+    height: 60%;
+    width: 40px;
+    position: relative;
+    left: 100px;
+    top: 70px;
+}
+
+#top-green {
+    background-color: green;
+    height: 80%;
+    width: 400px;
+    position: relative;
+    left: 250px;
+    top: 20px;
+}
+
+#top-blue {
+    background-color: rgb(117, 200, 255);
+    height: 80%;
+    width: 195px;
+    border-radius: 100px;
+    position: relative;
+    left: 400px;
+    top: 20px;
+}
+
+#middle-section {
+    margin: 40px 0px 0px 0px;
+    background-color: rgb(255, 255, 255);
+    border: 5px dotted black;
+    height: 25vh;
+    width: 90%;
+    display: flex;
+    position: relative;
+    left: 90px;
+}
+
+#middle-tan {
+    background-color: rgb(255, 237, 187);
+    height: 20vh;
+    width: 90%;
+    position: relative;
+    top: 25px;
+    left: 80px;
+    box-shadow: 10px 10px 5px rgb(31, 31, 31);
+}
+
+#bottom-section {
+    margin: 40px 0px 0px 0px;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid rgb(177, 177, 177);
+    box-shadow: 5px 5px 3px rgb(177, 177, 177);
+    height: 25vh;
+    width: 40%;
+    display: flex;
+    position: relative;
+    left:  550px;
+    justify-content: center;
+}
+
+#hello {
+    font-size: 80px;
+    color: blue;
+    position: relative;
+    left: 160px;
+}
+
+#friends {
+    font-size: 80px;
+    color: blue;
+    position: relative;
+    right: 130px;
+}
